@@ -33,7 +33,7 @@
 - qna_write: Q&A 작성 정보를 처리 (완료)
 - qna_view: Q&A 상세 정보를 조회 (완료)
 
-###AdminController
+### AdminController
 - admin_login_form: 관리자 로그인 페이지로 이동 (완료)
 - admin_login: 관리자 로그인 정보를 처리 (완료)
 - admin_member_list: 회원 목록을 조회 (완료)
