@@ -1,5 +1,7 @@
 ## 기능 목록
 
+나의 역할 : CartController 
+
 ### MainController
 - index: 메인 페이지로 이동(완료)
 
